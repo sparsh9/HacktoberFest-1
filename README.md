@@ -1,5 +1,7 @@
 # Hacktoberfest
 
+### Follow me to have your PR accepted quickly
+
 <div align="center">
 <img src="https://drive.google.com/uc?export=view&id=1ymdz7cV_gsYAHGAZoxNyz42vyayz-aS5" alt="here"/>
 </div>
